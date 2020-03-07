@@ -1,2 +1,3 @@
-array=board
+
 board=["","","","","","","","",""]
+puts board
